@@ -16,6 +16,8 @@ The keyword is **bacon** and it takes up to 3 parameters separated by spaces:
 * tag - **p**(default), **ul**, **ol** or **text** for plaintext. *(optional)*
 * content type - **all-meat**(default) or **meat-and-filler**(to mix in some lorem ipsum). *(optional)
 
+Press the Return key to copy the contents to the clipboard.
+
 Examples:
 
 - *bacon 5* - generates 5 paragraphs wrapped with *p* tags
