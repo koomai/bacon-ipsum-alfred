@@ -1,7 +1,7 @@
 Bacon Ipsum Workflow for Alfred
 ==================
 
-This is a very simple workflow for [Alfred](http://alfredapp.com) I whipped up for generating a [meatier Lorem Ipsum](http://baconipsum.com/).
+This is a very simple workflow for [Alfred](http://alfredapp.com) I whipped up for generating a [meatier Lorem Ipsum](http://baconipsum.com/ "Bacon Ipsum").
 
 Thanks to David Ferguson for his [Workflows](https://github.com/jdfwarrior/Workflows) class.
 
