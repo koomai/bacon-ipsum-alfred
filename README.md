@@ -18,7 +18,7 @@ The keyword is **bacon** and it takes up to 3 parameters separated by spaces:
 
 Examples:
 
-- *bacon 5* - generates 5 paragraphs wrapped with <p> tags
+- *bacon 5* - generates 5 paragraphs wrapped with *p* tags
 - *bacon 5 text* - generates 5 paragraphs in plaintext
 - *bacon 5 ul* - generates 5 list items
 - *bacon 5 p meat-and-filler* - generates alternate version of bacon ipsum mixed with lorem ipsum
